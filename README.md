@@ -79,13 +79,13 @@ var a; //  declare
 ```
 # **4.Difference between var,let,const.**
 ![alt text](https://velog.velcdn.com/images/iha3257/post/f2e15fb2-22d8-4042-bf5c-f6617fd5be57/image.jfif)
- | var | let | const |
+| var | let | const |
 | ------ | ------ | -----|
   |The scope of a ```var``` variable is functional scope.. |The scope of a ```let``` variable is block scope. | The scope of a ```const``` variable is block scope.  |
   |It can be ```updated and re-declared``` into the scope.. | It can be updated but cannot be re-declared into the scope.. |  It cannot be updated or re-declared into the scope. |
-  |It can be declared without initialization. | It can be declared without initialization. |  It cannot be declared without initialization.. |
-  |It can be accessed without initialization as its default value is “undefined”. | It cannot be accessed without initialization otherwise it will give ‘referenceError’. |  It cannot be accessed without initialization, as it cannot be declared without initialization.. |
-  |hoisting done, with initializing as ‘default’ value | Hoisting is done, but not initialized (this is the reason for the error when we access the let variable before declaration/initialization |Hoisting is done, but not initialized (this is the reason for the error when we access the const variable before declaration/initialization |
+   |It can be declared without initialization. | It can be declared without initialization. |  It cannot be declared without initialization.. |
+     |It can be accessed without initialization as its default value is “undefined”. | It cannot be accessed without initialization otherwise it will give ‘referenceError’. |  It cannot be accessed without initialization, as it cannot be declared without initialization.. |
+     |hoisting done, with initializing as ‘default’ value | Hoisting is done, but not initialized (this is the reason for the error when we access the let variable before declaration/initialization |  Hoisting is done, but not initialized (this is the reason for the error when we access the const variable before declaration/initialization |
 # **5.Closure:**         
 - a closure gives you access to an ```outer function's scope from an inner function```
  **example**:
