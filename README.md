@@ -1,6 +1,6 @@
 
 
-# ***```1.variable```***
+# ```1.variable```
  - Variables are named values and can store any type of JavaScript value.
 
  ```
