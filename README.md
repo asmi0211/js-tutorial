@@ -8,7 +8,7 @@
   const z= 200;
 
 ```
-# **2.scope**
+# **```2.scope```**
 - Scope refers to the **availability and accessibility  of variables and functions in certain parts of the code**. JavaScript has 3 types of scope:
 -  i) ```Block scope```
 -  ii)```Function scope or local scope```
