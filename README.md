@@ -230,7 +230,7 @@ console.log(student.marks.science); // 70
  ***More Details***: https://github.com/vignesh222s/js-tutorial/blob/main/image/d8db05d2-3938-43ec-8233-acb5dc3aef2f.jpg?raw=true
 
   ![alt text]( https://github.com/vignesh222s/js-tutorial/blob/main/image/641a8b5d-aa9e-4f76-a1df-d48c7aa3ca04.jpg?raw=true)
-  
+  ![alt text](https://github.com/vignesh222s/js-tutorial/blob/main/image/d8db05d2-3938-43ec-8233-acb5dc3aef2f.jpg?raw=true)
   ![alt text](https://github.com/vignesh222s/js-tutorial/blob/main/image/37695e34-be68-40c9-8757-a4249fad4b2d.jpg?raw=true)
   
    ![alt text](https://github.com/vignesh222s/js-tutorial/blob/main/image/93d16e33-d6c2-4a60-acb1-72f071405afa.jpg?raw=true)
